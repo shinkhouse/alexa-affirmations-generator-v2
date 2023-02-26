@@ -1,13 +1,9 @@
 {
-  "name": "@amzn/hello-world",
-  "version": "1.2.0",
-  "description": "alexa utility for quickly building skills",
+  "name": "alexa-affirmations-generator-v2",
+  "author": "Samuel Hinkhouse",
+  "version": "2.0.0",
+  "description": "Alexa skill for giving a random daily affirmation",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Amazon Alexa",
-  "license": "Apache License",
   "dependencies": {
     "ask-sdk-core": "^2.7.0",
     "ask-sdk-model": "^1.19.0",
